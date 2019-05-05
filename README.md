@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+My first repository
+
+My name is Josh and this is my fisst repository. 
